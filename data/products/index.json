@@ -5,7 +5,7 @@
             "title": "Modern Casual Shirt",
             "price": 3307,
             "discount_price": 2976,
-            "image": "../../images/men/men1.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men1.jpg",
             "badge": "10%",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -15,7 +15,7 @@
             "title": "Stylish Casual Shirt",
             "price": 3670,
             "discount_price": 3303,
-            "image": "../../images/men/men2.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men2.jpg",
             "badge": "hot",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -25,7 +25,7 @@
             "title": "Classic Casual Shirt",
             "price": 2936,
             "discount_price": 2642,
-            "image": "../../images/men/men3.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men3.jpg",
             "badge": "best seller",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -35,7 +35,7 @@
             "title": "Trendy Casual Shirt",
             "price": 2166,
             "discount_price": 1949,
-            "image": "../../images/men/men4.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men4.jpg",
             "badge": "new",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -45,7 +45,7 @@
             "title": "Elegant Casual Shirt",
             "price": 3365,
             "discount_price": 3197,
-            "image": "../../images/men/men5.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men5.jpg",
             "badge": "best seller",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -55,7 +55,7 @@
             "title": "Urban Casual Shirt",
             "price": 3750,
             "discount_price": 3375,
-            "image": "../../images/men/men6.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men6.jpg",
             "badge": "20%",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -65,7 +65,7 @@
             "title": "Smart Casual Shirt",
             "price": 3534,
             "discount_price": 3181,
-            "image": "../../images/men/men7.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men7.jpg",
             "badge": "10%",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -75,7 +75,7 @@
             "title": "Vintage Casual Shirt",
             "price": 2037,
             "discount_price": 1833,
-            "image": "../../images/men/men8.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men8.jpg",
             "badge": "best seller",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -85,7 +85,7 @@
             "title": "Rugged Casual Shirt",
             "price": 3630,
             "discount_price": 3448,
-            "image": "../../images/men/men9.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men9.jpg",
             "badge": "new",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -95,7 +95,7 @@
             "title": "Cool Casual Shirt",
             "price": 3822,
             "discount_price": 3631,
-            "image": "../../images/men/men10.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men10.jpg",
             "badge": "10%",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -105,7 +105,7 @@
             "title": "Gentle Casual Shirt",
             "price": 2445,
             "discount_price": 2323,
-            "image": "../../images/men/men11.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men11.jpg",
             "badge": "10%",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -115,7 +115,7 @@
             "title": "Fresh Casual Shirt",
             "price": 3364,
             "discount_price": 3028,
-            "image": "../../images/men/men12.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men12.jpg",
             "badge": "hot",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -125,7 +125,7 @@
             "title": "Dynamic Casual Shirt",
             "price": 2525,
             "discount_price": 2272,
-            "image": "../../images/men/men13.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men13.jpg",
             "badge": "10%",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -135,7 +135,7 @@
             "title": "Slim Fit Casual Shirt",
             "price": 3783,
             "discount_price": 3594,
-            "image": "../../images/men/men14.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men14.jpg",
             "badge": "limited",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -145,7 +145,7 @@
             "title": "Bold Casual Shirt",
             "price": 3179,
             "discount_price": 2861,
-            "image": "../../images/men/men15.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men15.jpg",
             "badge": "limited",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -155,7 +155,7 @@
             "title": "Royal Casual Shirt",
             "price": 3436,
             "discount_price": 3092,
-            "image": "../../images/men/men16.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men16.jpg",
             "badge": "new",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -165,7 +165,7 @@
             "title": "Active Casual Shirt",
             "price": 3742,
             "discount_price": 3555,
-            "image": "../../images/men/men17.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men17.jpg",
             "badge": "10%",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -175,7 +175,7 @@
             "title": "Simple Casual Shirt",
             "price": 3736,
             "discount_price": 3362,
-            "image": "../../images/men/men18.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men18.jpg",
             "badge": "hot",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -185,7 +185,7 @@
             "title": "Luxury Casual Shirt",
             "price": 2648,
             "discount_price": 2516,
-            "image": "../../images/men/men19.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men19.jpg",
             "badge": "10%",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -195,7 +195,7 @@
             "title": "Premium Casual Shirt",
             "price": 2781,
             "discount_price": 2642,
-            "image": "../../images/men/men20.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men20.jpg",
             "badge": "hot",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -205,7 +205,7 @@
             "title": "Weekend Casual Shirt",
             "price": 3214,
             "discount_price": 3053,
-            "image": "../../images/men/men21.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men21.jpg",
             "badge": "hot",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -215,7 +215,7 @@
             "title": "Everyday Casual Shirt",
             "price": 2356,
             "discount_price": 2120,
-            "image": "../../images/men/men22.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men22.jpg",
             "badge": "new",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -225,7 +225,7 @@
             "title": "Comfort Casual Shirt",
             "price": 3868,
             "discount_price": 3675,
-            "image": "../../images/men/men23.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men23.jpg",
             "badge": "hot",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -235,7 +235,7 @@
             "title": "Street Casual Shirt",
             "price": 3201,
             "discount_price": 2881,
-            "image": "../../images/men/men24.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men24.jpg",
             "badge": "best seller",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -245,7 +245,7 @@
             "title": "Chic Casual Shirt",
             "price": 2791,
             "discount_price": 2651,
-            "image": "../../images/men/men25.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men25.jpg",
             "badge": "10%",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -255,7 +255,7 @@
             "title": "Soft Casual Shirt",
             "price": 3949,
             "discount_price": 3554,
-            "image": "../../images/men/men26.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men26.jpg",
             "badge": "new",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -265,7 +265,7 @@
             "title": "Formal Casual Shirt",
             "price": 2269,
             "discount_price": 2156,
-            "image": "../../images/men/men27.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men27.jpg",
             "badge": "10%",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -275,7 +275,7 @@
             "title": "Clean Casual Shirt",
             "price": 2549,
             "discount_price": 2422,
-            "image": "../../images/men/men28.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men28.jpg",
             "badge": "best seller",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -285,7 +285,7 @@
             "title": "Urban Fit Casual Shirt",
             "price": 3558,
             "discount_price": 3380,
-            "image": "../../images/men/men29.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men29.jpg",
             "badge": "20%",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -295,7 +295,7 @@
             "title": "Outdoor Casual Shirt",
             "price": 3889,
             "discount_price": 3695,
-            "image": "../../images/men/men30.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men30.jpg",
             "badge": "best seller",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -305,7 +305,7 @@
             "title": "Smart Fit Casual Shirt",
             "price": 2066,
             "discount_price": 1859,
-            "image": "../../images/men/men31.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men31.jpg",
             "badge": "limited",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -315,7 +315,7 @@
             "title": "Office Casual Shirt",
             "price": 3360,
             "discount_price": 3192,
-            "image": "../../images/men/men32.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men32.jpg",
             "badge": "new",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -325,7 +325,7 @@
             "title": "Summer Casual Shirt",
             "price": 3231,
             "discount_price": 3069,
-            "image": "../../images/men/men33.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men33.jpg",
             "badge": "best seller",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -335,7 +335,7 @@
             "title": "Winter Casual Shirt",
             "price": 2105,
             "discount_price": 1894,
-            "image": "../../images/men/men34.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men34.jpg",
             "badge": "20%",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -345,7 +345,7 @@
             "title": "Denim Casual Shirt",
             "price": 3370,
             "discount_price": 3033,
-            "image": "../../images/men/men35.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men35.jpg",
             "badge": "10%",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -355,7 +355,7 @@
             "title": "Cotton Casual Shirt",
             "price": 3672,
             "discount_price": 3488,
-            "image": "../../images/men/men36.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men36.jpg",
             "badge": "new",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -365,7 +365,7 @@
             "title": "Linen Casual Shirt",
             "price": 2246,
             "discount_price": 2134,
-            "image": "../../images/men/men37.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men37.jpg",
             "badge": "hot",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -375,7 +375,7 @@
             "title": "Heavy Casual Shirt",
             "price": 3012,
             "discount_price": 2711,
-            "image": "../../images/men/men38.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men38.jpg",
             "badge": "best seller",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -385,7 +385,7 @@
             "title": "Lightweight Casual Shirt",
             "price": 3738,
             "discount_price": 3551,
-            "image": "../../images/men/men39.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men39.jpg",
             "badge": "20%",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -395,7 +395,7 @@
             "title": "Stretch Casual Shirt",
             "price": 3303,
             "discount_price": 3138,
-            "image": "../../images/men/men40.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men40.jpg",
             "badge": "10%",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -405,7 +405,7 @@
             "title": "Textured Casual Shirt",
             "price": 3880,
             "discount_price": 3686,
-            "image": "../../images/men/men41.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men41.jpg",
             "badge": "10%",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -415,7 +415,7 @@
             "title": "Printed Casual Shirt",
             "price": 2703,
             "discount_price": 2433,
-            "image": "../../images/men/men42.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men42.jpg",
             "badge": "20%",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -425,7 +425,7 @@
             "title": "Casual Look Casual Shirt",
             "price": 3316,
             "discount_price": 3150,
-            "image": "../../images/men/men43.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men43.jpg",
             "badge": "20%",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
@@ -435,7 +435,7 @@
             "title": "Soft Touch Casual Shirt",
             "price": 3202,
             "discount_price": 3042,
-            "image": "../../images/men/men44.jpg",
+            "image": "https://litanmolla.github.io/demoproductsapi/images/men/men44.jpg",
             "badge": "best seller",
             "updated_at": "2025-07-21T11:52:39.552581",
             "created_at": "2025-07-21T11:52:39.552581"
